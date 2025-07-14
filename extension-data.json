@@ -1,0 +1,1790 @@
+[
+  {
+    "nom d'extension": ".TXT",
+    "description": "Fichier texte simple, universellement compatible sans mise en forme.",
+    "logiciels communs": [
+      "Tout éditeur de texte"
+    ]
+  },
+  {
+    "nom d'extension": ".PDF",
+    "description": "Document Portable Document Format, pour une présentation indépendante du logiciel/matériel.",
+    "logiciels communs": [
+      "Adobe Acrobat Reader"
+    ]
+  },
+  {
+    "nom d'extension": ".DOC",
+    "description": "Ancien format de document Microsoft Word. Nécessite MS Word pour une ouverture complète.",
+    "logiciels communs": [
+      "Microsoft Word"
+    ]
+  },
+  {
+    "nom d'extension": ".DOCX",
+    "description": "Nouveau format de document Microsoft Word (Open XML). Nécessite MS Word pour une ouverture complète.",
+    "logiciels communs": [
+      "Microsoft Word"
+    ]
+  },
+  {
+    "nom d'extension": ".XLS",
+    "description": "Ancien format de feuille de calcul Microsoft Excel. Nécessite MS Excel pour une ouverture complète.",
+    "logiciels communs": [
+      "Microsoft Excel"
+    ]
+  },
+  {
+    "nom d'extension": ".XLSX",
+    "description": "Nouveau format de feuille de calcul Microsoft Excel (Open XML). Nécessite MS Excel pour une ouverture complète.",
+    "logiciels communs": [
+      "Microsoft Excel"
+    ]
+  },
+  {
+    "nom d'extension": ".PPT",
+    "description": "Ancien format de présentation Microsoft PowerPoint. Nécessite MS PowerPoint pour une ouverture complète.",
+    "logiciels communs": [
+      "Microsoft PowerPoint"
+    ]
+  },
+  {
+    "nom d'extension": ".PPTX",
+    "description": "Nouveau format de présentation Microsoft PowerPoint (Open XML). Nécessite MS PowerPoint pour une ouverture complète.",
+    "logiciels communs": [
+      "Microsoft PowerPoint"
+    ]
+  },
+  {
+    "nom d'extension": ".RTF",
+    "description": "Rich Text Format, supporte la mise en forme de texte de base entre applications.",
+    "logiciels communs": [
+      "Information non disponible"
+    ]
+  },
+  {
+    "nom d'extension": ".ODT",
+    "description": "OpenDocument Text, format de document open-source, utilisé par LibreOffice/OpenOffice.",
+    "logiciels communs": [
+      "LibreOffice Writer",
+      "OpenOffice Writer"
+    ]
+  },
+  {
+    "nom d'extension": ".ODS",
+    "description": "OpenDocument Spreadsheet, format de feuille de calcul open-source.",
+    "logiciels communs": [
+      "LibreOffice Calc",
+      "OpenOffice Calc"
+    ]
+  },
+  {
+    "nom d'extension": ".ODP",
+    "description": "OpenDocument Presentation, format de présentation open-source.",
+    "logiciels communs": [
+      "OpenDocument Presentation",
+      "LibreOffice Impress",
+      "OpenOffice Impress"
+    ]
+  },
+  {
+    "nom d'extension": ".PAGES",
+    "description": "Document créé avec Apple Pages, le traitement de texte de macOS et iOS.",
+    "logiciels communs": [
+      "Apple Pages"
+    ]
+  },
+  {
+    "nom d'extension": ".NUMBERS",
+    "description": "Feuille de calcul créée avec Apple Numbers, l'application tableur de macOS et iOS.",
+    "logiciels communs": [
+      "Apple Numbers"
+    ]
+  },
+  {
+    "nom d'extension": ".KEY",
+    "description": "Présentation créée avec Apple Keynote, l'application de présentation de macOS et iOS.",
+    "logiciels communs": [
+      "OpenSSL",
+      "Tout éditeur de texte",
+      "Apple Keynote (si fichier Keynote)"
+    ]
+  },
+  {
+    "nom d'extension": ".EPUB",
+    "description": "Fichier de livre électronique, format standard pour la publication numérique.",
+    "logiciels communs": [
+      "Calibre",
+      "Adobe Digital Editions"
+    ]
+  },
+  {
+    "nom d'extension": ".MOBI",
+    "description": "Fichier de livre électronique Mobipocket, utilisé par les liseuses Kindle.",
+    "logiciels communs": [
+      "Kindle for PC/Mac",
+      "Calibre"
+    ]
+  },
+  {
+    "nom d'extension": ".MD",
+    "description": "Markdown Document, fichier texte formaté avec la syntaxe Markdown.",
+    "logiciels communs": [
+      "Visual Studio Code",
+      "Typora"
+    ]
+  },
+  {
+    "nom d'extension": ".NFO",
+    "description": "Fichier d'informations texte simple, souvent utilisé pour les notes ou descriptions de publication.",
+    "logiciels communs": [
+      "Tout éditeur de texte"
+    ]
+  },
+  {
+    "nom d'extension": ".WPS",
+    "description": "Document Microsoft Works, suite bureautique plus légère que MS Office.",
+    "logiciels communs": [
+      "Kingsoft WPS Office"
+    ]
+  },
+  {
+    "nom d'extension": ".WPD",
+    "description": "Document WordPerfect, format de document d'un traitement de texte populaire dans les années 90.",
+    "logiciels communs": [
+      "Corel WordPerfect"
+    ]
+  },
+  {
+    "nom d'extension": ".TEX",
+    "description": "Document LaTeX, un système de composition de documents largement utilisé dans le milieu académique et scientifique.",
+    "logiciels communs": [
+      "TeXworks",
+      "TeXnicCenter",
+      "LaTeX Compiler",
+      "TeX Live",
+      "MiKTeX"
+    ]
+  },
+  {
+    "nom d'extension": ".LOG",
+    "description": "Fichier journal, enregistre les événements ou l'activité d'un programme ou système.",
+    "logiciels communs": [
+      "Tout éditeur de texte"
+    ]
+  },
+  {
+    "nom d'extension": ".ASC",
+    "description": "Fichier texte ASCII, utilisé pour le texte brut ou des signatures cryptographiques.",
+    "logiciels communs": [
+      "Tout éditeur de texte"
+    ]
+  },
+  {
+    "nom d'extension": ".ME",
+    "description": "Fichier 'Read Me', contenant des informations importantes sur un logiciel ou un projet.",
+    "logiciels communs": [
+      "Tout éditeur de texte"
+    ]
+  },
+  {
+    "nom d'extension": ".MSG",
+    "description": "Microsoft Outlook Message File, un seul e-mail ou élément Outlook.",
+    "logiciels communs": [
+      "Microsoft Outlook"
+    ]
+  },
+  {
+    "nom d'extension": ".EML",
+    "description": "E-mail File, un fichier d'e-mail brut souvent utilisé pour l'exportation.",
+    "logiciels communs": [
+      "Microsoft Outlook",
+      "Mozilla Thunderbird"
+    ]
+  },
+  {
+    "nom d'extension": ".OTT",
+    "description": "OpenDocument Text Template, modèle de document texte open-source.",
+    "logiciels communs": [
+      "LibreOffice Writer",
+      "OpenOffice Writer"
+    ]
+  },
+  {
+    "nom d'extension": ".FODT",
+    "description": "Flat XML OpenDocument Text, format XML pour les documents texte.",
+    "logiciels communs": [
+      "LibreOffice Writer",
+      "OpenOffice Writer"
+    ]
+  },
+  {
+    "nom d'extension": ".SXW",
+    "description": "OpenOffice.org Writer 1.0 Document, ancien format de document OpenOffice.",
+    "logiciels communs": [
+      "OpenOffice Writer"
+    ]
+  },
+  {
+    "nom d'extension": ".STW",
+    "description": "OpenOffice.org Writer 1.0 Template, ancien modèle de document OpenOffice.",
+    "logiciels communs": [
+      "OpenOffice Writer"
+    ]
+  },
+  {
+    "nom d'extension": ".ANS",
+    "description": "ANSI Art File, fichier texte avec des codes de couleurs et de formatage ANSI.",
+    "logiciels communs": [
+      "Tout éditeur de texte"
+    ]
+  },
+  {
+    "nom d'extension": ".ERR",
+    "description": "Error Log File, fichier journal contenant des erreurs.",
+    "logiciels communs": [
+      "Tout éditeur de texte"
+    ]
+  },
+  {
+    "nom d'extension": ".LIC",
+    "description": "License File, contient les informations de licence d'un logiciel.",
+    "logiciels communs": [
+      "Tout éditeur de texte"
+    ]
+  },
+  {
+    "nom d'extension": ".MAN",
+    "description": "Unix Manual Page, documentation pour les commandes Unix/Linux.",
+    "logiciels communs": [
+      "Terminal Linux/macOS"
+    ]
+  },
+  {
+    "nom d'extension": ".RST",
+    "description": "reStructuredText File, format de fichier pour la documentation technique.",
+    "logiciels communs": [
+      "Tout éditeur de texte",
+      "Sphinx"
+    ]
+  },
+  {
+    "nom d'extension": ".TEXT",
+    "description": "Plain Text File, une alternative à l'extension .txt.",
+    "logiciels communs": [
+      "Tout éditeur de texte"
+    ]
+  },
+  {
+    "nom d'extension": ".INFO",
+    "description": "Info Document, fichier d'information pour les logiciels Unix/Linux.",
+    "logiciels communs": [
+      "Terminal Linux/macOS"
+    ]
+  },
+  {
+    "nom d'extension": ".CSV",
+    "description": "Valeurs séparées par des virgules, couramment utilisé pour l'échange de données tabulaires.",
+    "logiciels communs": [
+      "Microsoft Excel",
+      "LibreOffice Calc",
+      "Tout éditeur de texte"
+    ]
+  },
+  {
+    "nom d'extension": ".JSON",
+    "description": "JavaScript Object Notation, format léger pour l'échange de données.",
+    "logiciels communs": [
+      "Tout éditeur de texte",
+      "Navigateur web",
+      "Visual Studio Code"
+    ]
+  },
+  {
+    "nom d'extension": ".XML",
+    "description": "Extensible Markup Language, un langage de balisage pour définir des ensembles de règles pour encoder des documents.",
+    "logiciels communs": [
+      "Tout éditeur de texte",
+      "Navigateur web"
+    ]
+  },
+  {
+    "nom d'extension": ".DB",
+    "description": "Fichier de base de données générique, le contenu dépend du système de base de données.",
+    "logiciels communs": [
+      "SQLite Browser",
+      "Logiciels de base de données"
+    ]
+  },
+  {
+    "nom d'extension": ".SQLITE",
+    "description": "Base de données SQLite, une base de données relationnelle légère et intégrée.",
+    "logiciels communs": [
+      "SQLite Browser"
+    ]
+  },
+  {
+    "nom d'extension": ".MDB",
+    "description": "Ancien format de base de données Microsoft Access. Nécessite MS Access.",
+    "logiciels communs": [
+      "Microsoft Access"
+    ]
+  },
+  {
+    "nom d'extension": ".ACCDB",
+    "description": "Nouveau format de base de données Microsoft Access. Nécessite MS Access.",
+    "logiciels communs": [
+      "Microsoft Access"
+    ]
+  },
+  {
+    "nom d'extension": ".SQL",
+    "description": "Fichier de script SQL, contient des commandes pour interagir avec des bases de données.",
+    "logiciels communs": [
+      "Tout éditeur de texte",
+      "Clients SQL"
+    ]
+  },
+  {
+    "nom d'extension": ".YML",
+    "description": "YAML Ain't Markup Language, un format de sérialisation de données lisible par l'humain.",
+    "logiciels communs": [
+      "Tout éditeur de texte"
+    ]
+  },
+  {
+    "nom d'extension": ".INI",
+    "description": "Fichier d'initialisation, stocke les paramètres de configuration des applications.",
+    "logiciels communs": [
+      "Tout éditeur de texte"
+    ]
+  },
+  {
+    "nom d'extension": ".CFG",
+    "description": "Fichier de configuration générique.",
+    "logiciels communs": [
+      "Tout éditeur de texte"
+    ]
+  },
+  {
+    "nom d'extension": ".DAT",
+    "description": "Fichier de données générique, le contenu varie selon l'application qui l'a créé.",
+    "logiciels communs": [
+      "Logiciel d'origine"
+    ]
+  },
+  {
+    "nom d'extension": ".JSONL",
+    "description": "JSON Lines, format pour stocker des données JSON sur une ligne par enregistrement.",
+    "logiciels communs": [
+      "Tout éditeur de texte",
+      "Visual Studio Code"
+    ]
+  },
+  {
+    "nom d'extension": ".TSV",
+    "description": "Valeurs séparées par des tabulations, similaire au CSV.",
+    "logiciels communs": [
+      "Microsoft Excel",
+      "LibreOffice Calc",
+      "Tout éditeur de texte"
+    ]
+  },
+  {
+    "nom d'extension": ".BIN",
+    "description": "Fichier binaire générique, peut contenir n'importe quel type de données non textuelles.",
+    "logiciels communs": [
+      "HxD Hex Editor",
+      "Daemon Tools Lite (si image disque)",
+      "Daemon Tools Lite",
+      "Virtual CloneDrive"
+    ]
+  },
+  {
+    "nom d'extension": ".DBF",
+    "description": "Base de données dBASE, un format de base de données plat historique.",
+    "logiciels communs": [
+      "Microsoft Access",
+      "LibreOffice Base",
+      "ArcGIS",
+      "QGIS"
+    ]
+  },
+  {
+    "nom d'extension": ".XMLS",
+    "description": "Fichier XML Schema, pour définir la structure d'un document XML.",
+    "logiciels communs": [
+      "Tout éditeur de texte"
+    ]
+  },
+  {
+    "nom d'extension": ".RDF",
+    "description": "Resource Description Framework, format pour modéliser des informations sur des ressources web.",
+    "logiciels communs": [
+      "Tout éditeur de texte",
+      "Navigateur web (avec extensions)"
+    ]
+  },
+  {
+    "nom d'extension": ".OWL",
+    "description": "Web Ontology Language, pour représenter des ontologies complexes sur le web.",
+    "logiciels communs": [
+      "Protégé"
+    ]
+  },
+  {
+    "nom d'extension": ".XPT",
+    "description": "SAS Transport File, utilisé pour échanger des données entre différentes versions de SAS ou d'autres logiciels.",
+    "logiciels communs": [
+      "SAS"
+    ]
+  },
+  {
+    "nom d'extension": ".BAK",
+    "description": "Fichier de sauvegarde, créé automatiquement pour préserver une copie antérieure.",
+    "logiciels communs": [
+      "Logiciel d'origine"
+    ]
+  },
+  {
+    "nom d'extension": ".TMP",
+    "description": "Fichier temporaire, créé par un programme pour stocker des données transitoires.",
+    "logiciels communs": [
+      "Logiciel d'origine"
+    ]
+  },
+  {
+    "nom d'extension": ".LOCK",
+    "description": "Fichier de verrouillage, indique qu'une ressource est en cours d'utilisation.",
+    "logiciels communs": [
+      "Logiciel d'origine"
+    ]
+  },
+  {
+    "nom d'extension": ".SQLITE-SHM",
+    "description": "Fichier de mémoire partagée SQLite, utilisé pour l'accès concurrent aux bases de données.",
+    "logiciels communs": [
+      "SQLite"
+    ]
+  },
+  {
+    "nom d'extension": ".SQLITE-WAL",
+    "description": "Fichier Write-Ahead Log SQLite, utilisé pour les transactions et la récupération de données.",
+    "logiciels communs": [
+      "SQLite"
+    ]
+  },
+  {
+    "nom d'extension": ".DUMP",
+    "description": "Fichier de vidage de base de données, contient une copie des données.",
+    "logiciels communs": [
+      "Clients SQL"
+    ]
+  },
+  {
+    "nom d'extension": ".FDB",
+    "description": "FileMaker Pro Database File, base de données de FileMaker Pro.",
+    "logiciels communs": [
+      "FileMaker Pro"
+    ]
+  },
+  {
+    "nom d'extension": ".GDB",
+    "description": "InterBase Database, format de base de données relationnelle.",
+    "logiciels communs": [
+      "InterBase"
+    ]
+  },
+  {
+    "nom d'extension": ".IDX",
+    "description": "Index File, fichier d'index pour les bases de données ou les collections de données.",
+    "logiciels communs": [
+      "Logiciel d'origine"
+    ]
+  },
+  {
+    "nom d'extension": ".LDF",
+    "description": "SQL Server Log File, fichier journal des transactions pour SQL Server.",
+    "logiciels communs": [
+      "Microsoft SQL Server"
+    ]
+  },
+  {
+    "nom d'extension": ".MDF",
+    "description": "SQL Server Master Database File, fichier de données principal pour SQL Server.",
+    "logiciels communs": [
+      "Microsoft SQL Server",
+      "Alcohol 120%",
+      "DAEMON Tools Lite"
+    ]
+  },
+  {
+    "nom d'extension": ".NDF",
+    "description": "SQL Server Secondary Database File, fichier de données secondaire pour SQL Server.",
+    "logiciels communs": [
+      "Microsoft SQL Server"
+    ]
+  },
+  {
+    "nom d'extension": ".SDF",
+    "description": "SQL Server Compact Database, base de données compacte pour les applications.",
+    "logiciels communs": [
+      "Microsoft SQL Server Compact"
+    ]
+  },
+  {
+    "nom d'extension": ".UDL",
+    "description": "Microsoft Data Link File, pour spécifier les informations de connexion à une base de données.",
+    "logiciels communs": [
+      "Windows"
+    ]
+  },
+  {
+    "nom d'extension": ".VPD",
+    "description": "Visual FoxPro Database, base de données de Microsoft Visual FoxPro.",
+    "logiciels communs": [
+      "Microsoft Visual FoxPro"
+    ]
+  },
+  {
+    "nom d'extension": ".WK1",
+    "description": "Lotus 1-2-3 Worksheet, ancienne feuille de calcul Lotus 1-2-3.",
+    "logiciels communs": [
+      "Lotus 1-2-3"
+    ]
+  },
+  {
+    "nom d'extension": ".XLM",
+    "description": "Excel Macro, contient des macros pour Microsoft Excel.",
+    "logiciels communs": [
+      "Microsoft Excel"
+    ]
+  },
+  {
+    "nom d'extension": ".XLL",
+    "description": "Excel Add-in, module complémentaire pour Microsoft Excel.",
+    "logiciels communs": [
+      "Microsoft Excel"
+    ]
+  },
+  {
+    "nom d'extension": ".XLA",
+    "description": "Excel Add-in, ancien format de module complémentaire pour Excel.",
+    "logiciels communs": [
+      "Microsoft Excel"
+    ]
+  },
+  {
+    "nom d'extension": ".XLT",
+    "description": "Excel Template, modèle de feuille de calcul Excel.",
+    "logiciels communs": [
+      "Microsoft Excel"
+    ]
+  },
+  {
+    "nom d'extension": ".XLTX",
+    "description": "Excel Template (Open XML), modèle de feuille de calcul Excel.",
+    "logiciels communs": [
+      "Microsoft Excel"
+    ]
+  },
+  {
+    "nom d'extension": ".JPG",
+    "description": "Image JPEG, format compressé avec perte de qualité, idéal pour les photos.",
+    "logiciels communs": [
+      "Visionneuse de photos Windows",
+      "Tout navigateur web",
+      "Adobe Photoshop"
+    ]
+  },
+  {
+    "nom d'extension": ".PNG",
+    "description": "Image PNG, format sans perte avec support de la transparence, idéal pour les graphiques web.",
+    "logiciels communs": [
+      "Visionneuse de photos Windows",
+      "Tout navigateur web",
+      "Adobe Photoshop"
+    ]
+  },
+  {
+    "nom d'extension": ".GIF",
+    "description": "Image GIF, supporte l'animation et une palette de couleurs limitée.",
+    "logiciels communs": [
+      "Visionneuse de photos Windows",
+      "Tout navigateur web",
+      "Adobe Photoshop"
+    ]
+  },
+  {
+    "nom d'extension": ".BMP",
+    "description": "Image Bitmap, format d'image non compressé, souvent volumineux.",
+    "logiciels communs": [
+      "Visionneuse de photos Windows",
+      "Adobe Photoshop"
+    ]
+  },
+  {
+    "nom d'extension": ".TIF",
+    "description": "Image TIFF, format polyvalent sans perte, souvent utilisé en photographie professionnelle.",
+    "logiciels communs": [
+      "Adobe Photoshop",
+      "Visionneuse de photos Windows"
+    ]
+  },
+  {
+    "nom d'extension": ".WEBP",
+    "description": "Image WebP, format d'image moderne offrant une compression supérieure pour le web.",
+    "logiciels communs": [
+      "Tout navigateur web",
+      "Adobe Photoshop (avec plugin)"
+    ]
+  },
+  {
+    "nom d'extension": ".PSD",
+    "description": "Document Adobe Photoshop, contient des calques et des informations d'édition.",
+    "logiciels communs": [
+      "Adobe Photoshop"
+    ]
+  },
+  {
+    "nom d'extension": ".AI",
+    "description": "Document Adobe Illustrator, image vectorielle pour le dessin et la création graphique.",
+    "logiciels communs": [
+      "Adobe Illustrator"
+    ]
+  },
+  {
+    "nom d'extension": ".INDD",
+    "description": "Document Adobe InDesign, utilisé pour la mise en page et la publication assistée par ordinateur.",
+    "logiciels communs": [
+      "Adobe InDesign"
+    ]
+  },
+  {
+    "nom d'extension": ".EPS",
+    "description": "Encapsulated PostScript, format graphique vectoriel.",
+    "logiciels communs": [
+      "Adobe Illustrator",
+      "Adobe Photoshop"
+    ]
+  },
+  {
+    "nom d'extension": ".RAW",
+    "description": "Image RAW, données brutes du capteur d'appareil photo numérique, non traitées.",
+    "logiciels communs": [
+      "Adobe Photoshop",
+      "Adobe Lightroom"
+    ]
+  },
+  {
+    "nom d'extension": ".NEF",
+    "description": "Image RAW Nikon Electronic Format.",
+    "logiciels communs": [
+      "Adobe Lightroom",
+      "Adobe Photoshop"
+    ]
+  },
+  {
+    "nom d'extension": ".CR2",
+    "description": "Image RAW Canon Raw Version 2.",
+    "logiciels communs": [
+      "Adobe Lightroom",
+      "Adobe Photoshop"
+    ]
+  },
+  {
+    "nom d'extension": ".DNG",
+    "description": "Digital Negative, format d'image RAW ouvert d'Adobe.",
+    "logiciels communs": [
+      "Adobe Lightroom",
+      "Adobe Photoshop"
+    ]
+  },
+  {
+    "nom d'extension": ".SVG",
+    "description": "Scalable Vector Graphics, format d'image vectorielle basée sur XML, idéal pour le web.",
+    "logiciels communs": [
+      "Tout navigateur web",
+      "Adobe Illustrator",
+      "Inkscape"
+    ]
+  },
+  {
+    "nom d'extension": ".ICO",
+    "description": "Fichier Icône, utilisé pour les icônes d'applications et les favicons de sites web.",
+    "logiciels communs": [
+      "Tout navigateur web",
+      "Logiciels d'édition d'icônes"
+    ]
+  },
+  {
+    "nom d'extension": ".HEIC",
+    "description": "High Efficiency Image File Format, format d'image par défaut sur les appareils Apple, plus efficace que JPEG.",
+    "logiciels communs": [
+      "Visionneuse de photos Windows (avec codecs)",
+      "Aperçu (macOS)"
+    ]
+  },
+  {
+    "nom d'extension": ".EXIF",
+    "description": "Exchangeable Image File Format, contient les métadonnées d'une image (date, appareil, etc.).",
+    "logiciels communs": [
+      "Visionneuse d'images"
+    ]
+  },
+  {
+    "nom d'extension": ".PICT",
+    "description": "Image Macintosh PICT, format graphique standard sur les anciens Macs.",
+    "logiciels communs": [
+      "Aperçu (macOS)"
+    ]
+  },
+  {
+    "nom d'extension": ".JP2",
+    "description": "JPEG 2000 Image, format d'image avancé offrant une meilleure compression et qualité que JPEG.",
+    "logiciels communs": [
+      "Adobe Photoshop",
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".PCX",
+    "description": "PC Paintbrush Bitmap Image, un des premiers formats d'image bitmap pour PC.",
+    "logiciels communs": [
+      "GIMP",
+      "Paint Shop Pro"
+    ]
+  },
+  {
+    "nom d'extension": ".TGA",
+    "description": "Truevision Targa Graphic, format populaire dans l'industrie du jeu vidéo et l'édition vidéo.",
+    "logiciels communs": [
+      "Adobe Photoshop",
+      "GIMP"
+    ]
+  },
+  {
+    "nom d'extension": ".CUT",
+    "description": "Dr. Halo Bitmap, format graphique bitmap obsolète.",
+    "logiciels communs": [
+      "Anciens logiciels de dessin"
+    ]
+  },
+  {
+    "nom d'extension": ".HDR",
+    "description": "High Dynamic Range Image, image à haute gamme dynamique.",
+    "logiciels communs": [
+      "Adobe Photoshop",
+      "Lightroom"
+    ]
+  },
+  {
+    "nom d'extension": ".DIB",
+    "description": "Device Independent Bitmap, une autre forme de fichier bitmap.",
+    "logiciels communs": [
+      "Visionneuse de photos Windows"
+    ]
+  },
+  {
+    "nom d'extension": ".EMF",
+    "description": "Enhanced Metafile, format de fichier graphique vectoriel et bitmap pour Windows.",
+    "logiciels communs": [
+      "Visionneuse de photos Windows"
+    ]
+  },
+  {
+    "nom d'extension": ".WMF",
+    "description": "Windows Metafile, format graphique vectoriel de Windows.",
+    "logiciels communs": [
+      "Visionneuse de photos Windows"
+    ]
+  },
+  {
+    "nom d'extension": ".RLE",
+    "description": "Run Length Encoded Bitmap, format bitmap compressé.",
+    "logiciels communs": [
+      "Visionneuse de photos Windows"
+    ]
+  },
+  {
+    "nom d'extension": ".PBM",
+    "description": "Portable Bitmap, format d'image noir et blanc simple.",
+    "logiciels communs": [
+      "GIMP"
+    ]
+  },
+  {
+    "nom d'extension": ".PGM",
+    "description": "Portable Graymap, format d'image en niveaux de gris simple.",
+    "logiciels communs": [
+      "GIMP"
+    ]
+  },
+  {
+    "nom d'extension": ".PPM",
+    "description": "Portable Pixmap, format d'image couleur simple.",
+    "logiciels communs": [
+      "GIMP"
+    ]
+  },
+  {
+    "nom d'extension": ".TBN",
+    "description": "Thumbnail Image File, similaire à .thm, pour les miniatures.",
+    "logiciels communs": [
+      "Visionneuse d'images"
+    ]
+  },
+  {
+    "nom d'extension": ".VSD",
+    "description": "Visio Drawing File, dessin vectoriel créé avec Microsoft Visio.",
+    "logiciels communs": [
+      "Microsoft Visio"
+    ]
+  },
+  {
+    "nom d'extension": ".VSDX",
+    "description": "Visio Drawing File (Open XML), nouveau format de dessin Visio.",
+    "logiciels communs": [
+      "Microsoft Visio"
+    ]
+  },
+  {
+    "nom d'extension": ".CDR",
+    "description": "CorelDRAW Image File, fichier de dessin vectoriel de CorelDRAW.",
+    "logiciels communs": [
+      "CorelDRAW"
+    ]
+  },
+  {
+    "nom d'extension": ".SKM",
+    "description": "SketchUp Material File, fichier de matériau pour SketchUp.",
+    "logiciels communs": [
+      "SketchUp"
+    ]
+  },
+  {
+    "nom d'extension": ".SKL",
+    "description": "SketchUp Location File, fichier de localisation pour SketchUp.",
+    "logiciels communs": [
+      "SketchUp"
+    ]
+  },
+  {
+    "nom d'extension": ".SKT",
+    "description": "SketchUp Template, modèle de projet SketchUp.",
+    "logiciels communs": [
+      "SketchUp"
+    ]
+  },
+  {
+    "nom d'extension": ".FIG",
+    "description": "Xfig Drawing, dessin vectoriel créé avec l'outil Xfig.",
+    "logiciels communs": [
+      "Xfig"
+    ]
+  },
+  {
+    "nom d'extension": ".XPM",
+    "description": "X PixMap, format d'image utilisé sur les systèmes Unix/X11.",
+    "logiciels communs": [
+      "GIMP"
+    ]
+  },
+  {
+    "nom d'extension": ".PIX",
+    "description": "Pixar Picture File, format d'image utilisé par Pixar.",
+    "logiciels communs": [
+      "Pixar Renderman"
+    ]
+  },
+  {
+    "nom d'extension": ".SGI",
+    "description": "Silicon Graphics Image, format d'image utilisé par les stations de travail SGI.",
+    "logiciels communs": [
+      "GIMP"
+    ]
+  },
+  {
+    "nom d'extension": ".SUN",
+    "description": "Sun Raster Image, format d'image utilisé par les systèmes Sun Microsystems.",
+    "logiciels communs": [
+      "GIMP"
+    ]
+  },
+  {
+    "nom d'extension": ".MP3",
+    "description": "Fichier audio compressé, très populaire pour la musique et les podcasts.",
+    "logiciels communs": [
+      "VLC Media Player",
+      "Windows Media Player",
+      "iTunes"
+    ]
+  },
+  {
+    "nom d'extension": ".WAV",
+    "description": "Fichier audio non compressé, offre une haute fidélité mais une grande taille.",
+    "logiciels communs": [
+      "VLC Media Player",
+      "Windows Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".AAC",
+    "description": "Advanced Audio Coding, format audio compressé offrant une meilleure qualité que le MP3.",
+    "logiciels communs": [
+      "iTunes",
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".FLAC",
+    "description": "Free Lossless Audio Codec, format audio sans perte de qualité.",
+    "logiciels communs": [
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".OGG",
+    "description": "Format audio ouvert et libre de droits, souvent utilisé pour le streaming.",
+    "logiciels communs": [
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".M4A",
+    "description": "Format audio développé par Apple, souvent utilisé pour les chansons achetées sur iTunes.",
+    "logiciels communs": [
+      "iTunes",
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".MID",
+    "description": "Musical Instrument Digital Interface, contient des données musicales plutôt que de l'audio.",
+    "logiciels communs": [
+      "VLC Media Player",
+      "Windows Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".AIFF",
+    "description": "Audio Interchange File Format, format audio non compressé d'Apple.",
+    "logiciels communs": [
+      "QuickTime Player",
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".WMA",
+    "description": "Windows Media Audio, format audio compressé développé par Microsoft.",
+    "logiciels communs": [
+      "Windows Media Player",
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".OPUS",
+    "description": "Opus Audio, codec audio ouvert et polyvalent, idéal pour la voix et la musique sur Internet.",
+    "logiciels communs": [
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".APE",
+    "description": "Monkey's Audio, format audio sans perte avec une très haute compression.",
+    "logiciels communs": [
+      "VLC Media Player",
+      "Monkey's Audio"
+    ]
+  },
+  {
+    "nom d'extension": ".ALAC",
+    "description": "Apple Lossless Audio Codec, format audio sans perte développé par Apple.",
+    "logiciels communs": [
+      "iTunes",
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".DTS",
+    "description": "Digital Theater System, format audio multicanal haute qualité pour le cinéma et le home cinéma.",
+    "logiciels communs": [
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".AC3",
+    "description": "Dolby Digital Audio Codec 3, format audio compressé utilisé dans les DVD et Blu-ray.",
+    "logiciels communs": [
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".AMR",
+    "description": "Adaptive Multi-Rate Audio, format audio optimisé pour l'encodage de la parole dans les téléphones mobiles.",
+    "logiciels communs": [
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".AU",
+    "description": "Audio File, format audio commun sur les systèmes Unix.",
+    "logiciels communs": [
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".SND",
+    "description": "Sound File, fichier son générique.",
+    "logiciels communs": [
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".RA",
+    "description": "Real Audio, format audio streaming de RealNetworks.",
+    "logiciels communs": [
+      "RealPlayer"
+    ]
+  },
+  {
+    "nom d'extension": ".RAM",
+    "description": "Real Audio Metadata, fichier de métadonnées pour les flux Real Audio.",
+    "logiciels communs": [
+      "RealPlayer"
+    ]
+  },
+  {
+    "nom d'extension": ".VOC",
+    "description": "Creative Labs Voice File, format audio utilisé par les cartes son Sound Blaster.",
+    "logiciels communs": [
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".MOD",
+    "description": "Module Music File, format de fichier musical pour les trackers.",
+    "logiciels communs": [
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".IT",
+    "description": "Impulse Tracker Module, format de fichier musical pour le tracker Impulse Tracker.",
+    "logiciels communs": [
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".S3M",
+    "description": "ScreamTracker 3 Module, format de fichier musical pour ScreamTracker.",
+    "logiciels communs": [
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".XM",
+    "description": "Extended Module, format de fichier musical pour FastTracker 2.",
+    "logiciels communs": [
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".CDA",
+    "description": "CD Audio Track Shortcut, raccourci vers une piste audio d'un CD.",
+    "logiciels communs": [
+      "Windows Media Player",
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".M3U",
+    "description": "MP3 URL Playlist File, liste de lecture de fichiers audio.",
+    "logiciels communs": [
+      "VLC Media Player",
+      "Winamp"
+    ]
+  },
+  {
+    "nom d'extension": ".PLS",
+    "description": "Audio Playlist File, liste de lecture pour Winamp et d'autres lecteurs.",
+    "logiciels communs": [
+      "VLC Media Player",
+      "Winamp"
+    ]
+  },
+  {
+    "nom d'extension": ".ASX",
+    "description": "Advanced Stream Redirector, fichier de métadonnées pour les flux Windows Media.",
+    "logiciels communs": [
+      "Windows Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".BUP",
+    "description": "DVD Backup File, fichier de sauvegarde pour les DVD.",
+    "logiciels communs": [
+      "Logiciel de lecture DVD"
+    ]
+  },
+  {
+    "nom d'extension": ".IFO",
+    "description": "DVD Information File, fichier d'informations pour les DVD.",
+    "logiciels communs": [
+      "Logiciel de lecture DVD"
+    ]
+  },
+  {
+    "nom d'extension": ".VRO",
+    "description": "DVD Video Recording Format, fichier vidéo de DVD-RAM.",
+    "logiciels communs": [
+      "Logiciel de lecture DVD"
+    ]
+  },
+  {
+    "nom d'extension": ".MP4",
+    "description": "Fichier vidéo le plus courant, largement compatible et de bonne qualité.",
+    "logiciels communs": [
+      "VLC Media Player",
+      "Windows Media Player",
+      "QuickTime Player"
+    ]
+  },
+  {
+    "nom d'extension": ".AVI",
+    "description": "Audio Video Interleave, un ancien format conteneur vidéo de Microsoft.",
+    "logiciels communs": [
+      "VLC Media Player",
+      "Windows Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".MOV",
+    "description": "Fichier vidéo QuickTime d'Apple, souvent utilisé sur les appareils Apple.",
+    "logiciels communs": [
+      "QuickTime Player",
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".WMV",
+    "description": "Windows Media Video, format vidéo développé par Microsoft.",
+    "logiciels communs": [
+      "Windows Media Player",
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".MKV",
+    "description": "Matroska Video, un conteneur vidéo flexible supportant plusieurs pistes (audio, vidéo, sous-titres).",
+    "logiciels communs": [
+      "VLC Media Player",
+      "MPC-HC"
+    ]
+  },
+  {
+    "nom d'extension": ".FLV",
+    "description": "Flash Video, utilisé pour diffuser des vidéos sur Internet via Adobe Flash Player.",
+    "logiciels communs": [
+      "VLC Media Player",
+      "Any FLV Player"
+    ]
+  },
+  {
+    "nom d'extension": ".WEBM",
+    "description": "Format vidéo ouvert et libre de droits, optimisé pour le web.",
+    "logiciels communs": [
+      "Tout navigateur web",
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".3GP",
+    "description": "3rd Generation Partnership Project, format vidéo pour les téléphones mobiles.",
+    "logiciels communs": [
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".MPG",
+    "description": "Moving Picture Experts Group, format vidéo standard.",
+    "logiciels communs": [
+      "VLC Media Player",
+      "Windows Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".VOB",
+    "description": "Video Object, contient les données vidéo, audio et de sous-titres d'un DVD.",
+    "logiciels communs": [
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".M4V",
+    "description": "Fichier vidéo iTunes, basé sur le format MP4, parfois protégé par DRM.",
+    "logiciels communs": [
+      "iTunes",
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".OGV",
+    "description": "Ogg Video, format vidéo ouvert et libre de droits, souvent utilisé pour le streaming web.",
+    "logiciels communs": [
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".TS",
+    "description": "Transport Stream, format conteneur pour la diffusion de données vidéo et audio (ex: télévision numérique).",
+    "logiciels communs": [
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".DIVX",
+    "description": "DivX Video, codec vidéo compressé populaire pour la lecture de vidéos sur différents appareils.",
+    "logiciels communs": [
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".XVID",
+    "description": "Xvid Video, codec vidéo open-source, une alternative à DivX.",
+    "logiciels communs": [
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".RM",
+    "description": "RealMedia File, utilisé par RealPlayer pour le streaming de médias.",
+    "logiciels communs": [
+      "RealPlayer"
+    ]
+  },
+  {
+    "nom d'extension": ".RMVB",
+    "description": "RealMedia Variable Bitrate, version améliorée de RM pour une meilleure qualité vidéo.",
+    "logiciels communs": [
+      "RealPlayer"
+    ]
+  },
+  {
+    "nom d'extension": ".SWF",
+    "description": "Small Web Format (anciennement Shockwave Flash), utilisé pour l'animation et les jeux interactifs sur le web.",
+    "logiciels communs": [
+      "Adobe Flash Player (obsolète)",
+      "Navigateur web (avec plugin Flash)"
+    ]
+  },
+  {
+    "nom d'extension": ".ASF",
+    "description": "Advanced Systems Format, format conteneur multimédia de Microsoft.",
+    "logiciels communs": [
+      "Windows Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".M2TS",
+    "description": "MPEG-2 Transport Stream, format conteneur pour la vidéo haute définition.",
+    "logiciels communs": [
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".MTS",
+    "description": "AVCHD Video File, format vidéo haute définition pour les caméscopes numériques.",
+    "logiciels communs": [
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".MOD",
+    "description": "MODD Video File, format vidéo utilisé par les caméscopes Sony.",
+    "logiciels communs": [
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".TOD",
+    "description": "JVC Everio Camcorder Video File, format vidéo utilisé par les caméscopes JVC.",
+    "logiciels communs": [
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".CAMREC",
+    "description": "Camtasia Recorder File, fichier d'enregistrement vidéo de Camtasia.",
+    "logiciels communs": [
+      "Camtasia Studio"
+    ]
+  },
+  {
+    "nom d'extension": ".WEBM",
+    "description": "WebM Video File, format vidéo ouvert et libre de droits, optimisé pour le web.",
+    "logiciels communs": [
+      "Tout navigateur web",
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".MXF",
+    "description": "Material Exchange Format, format de fichier professionnel pour l'échange de médias numériques.",
+    "logiciels communs": [
+      "VLC Media Player",
+      "Adobe Premiere Pro"
+    ]
+  },
+  {
+    "nom d'extension": ".ROQ",
+    "description": "Id Quake III Arena Video, format vidéo utilisé dans les jeux Quake.",
+    "logiciels communs": [
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".SEQ",
+    "description": "Video Sequence File, séquence d'images vidéo.",
+    "logiciels communs": [
+      "Logiciel de montage vidéo"
+    ]
+  },
+  {
+    "nom d'extension": ".SMK",
+    "description": "Smacker Video File, format vidéo utilisé dans les jeux DOS et Windows.",
+    "logiciels communs": [
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".BIK",
+    "description": "Bink Video File, format vidéo utilisé dans les jeux vidéo.",
+    "logiciels communs": [
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".F4V",
+    "description": "Flash MP4 Video File, basé sur le format MP4, utilisé par Adobe Flash.",
+    "logiciels communs": [
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".VP6",
+    "description": "On2 VP6 Video File, codec vidéo utilisé pour les vidéos Flash.",
+    "logiciels communs": [
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".VOBSUB",
+    "description": "DVD Subtitle File, fichier de sous-titres pour DVD.",
+    "logiciels communs": [
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".SUB",
+    "description": "Subtitle File, fichier de sous-titres générique.",
+    "logiciels communs": [
+      "VLC Media Player",
+      "Media Player Classic"
+    ]
+  },
+  {
+    "nom d'extension": ".SRT",
+    "description": "SubRip Subtitle File, fichier de sous-titres le plus courant.",
+    "logiciels communs": [
+      "Tout éditeur de texte",
+      "VLC Media Player"
+    ]
+  },
+  {
+    "nom d'extension": ".ASS",
+    "description": "Advanced SubStation Alpha Subtitle File, format de sous-titres avancé.",
+    "logiciels communs": [
+      "VLC Media Player",
+      "Media Player Classic Home Cinema"
+    ]
+  },
+  {
+    "nom d'extension": ".SSA",
+    "description": "SubStation Alpha Subtitle File, format de sous-titres.",
+    "logiciels communs": [
+      "VLC Media Player",
+      "Media Player Classic Home Cinema"
+    ]
+  },
+  {
+    "nom d'extension": ".ZIP",
+    "description": "Archive compressée, très courant pour regrouper et réduire la taille des fichiers.",
+    "logiciels communs": [
+      "Windows Explorer",
+      "7-Zip",
+      "WinRAR"
+    ]
+  },
+  {
+    "nom d'extension": ".RAR",
+    "description": "Archive RAR, format de compression propriétaire, nécessite WinRAR ou 7-Zip.",
+    "logiciels communs": [
+      "WinRAR",
+      "7-Zip"
+    ]
+  },
+  {
+    "nom d'extension": ".7Z",
+    "description": "Archive 7z, format de compression open-source avec un taux de compression élevé.",
+    "logiciels communs": [
+      "7-Zip"
+    ]
+  },
+  {
+    "nom d'extension": ".TAR",
+    "description": "Tape Archive, regroupe des fichiers sans compression, souvent combiné avec Gzip.",
+    "logiciels communs": [
+      "7-Zip",
+      "WinRAR",
+      "Linux/macOS Terminal"
+    ]
+  },
+  {
+    "nom d'extension": ".GZ",
+    "description": "Gzip Compressed Archive, fichier compressé par l'algorithme gzip.",
+    "logiciels communs": [
+      "7-Zip",
+      "WinRAR",
+      "Linux/macOS Terminal"
+    ]
+  },
+  {
+    "nom d'extension": ".BZ2",
+    "description": "Bzip2 Compressed Archive, fichier compressé par l'algorithme bzip2.",
+    "logiciels communs": [
+      "7-Zip",
+      "WinRAR",
+      "Linux/macOS Terminal"
+    ]
+  },
+  {
+    "nom d'extension": ".XZ",
+    "description": "XZ Compressed Archive, format de compression haute performance.",
+    "logiciels communs": [
+      "7-Zip",
+      "WinRAR",
+      "Linux/macOS Terminal"
+    ]
+  },
+  {
+    "nom d'extension": ".ISO",
+    "description": "Image de disque optique (CD/DVD/Blu-ray), contient une copie complète d'un disque.",
+    "logiciels communs": [
+      "Daemon Tools Lite",
+      "Virtual CloneDrive",
+      "7-Zip",
+      "WinRAR"
+    ]
+  },
+  {
+    "nom d'extension": ".DMG",
+    "description": "Apple Disk Image, fichier image disque utilisé sur macOS.",
+    "logiciels communs": [
+      "Apple Disk Utility",
+      "7-Zip (Windows)"
+    ]
+  },
+  {
+    "nom d'extension": ".CAB",
+    "description": "Windows Cabinet File, format d'archive Microsoft pour l'installation de logiciels.",
+    "logiciels communs": [
+      "Windows Explorer"
+    ]
+  },
+  {
+    "nom d'extension": ".DEB",
+    "description": "Paquet Debian, format de paquet logiciel pour les distributions Linux basées sur Debian.",
+    "logiciels communs": [
+      "dpkg (Linux)"
+    ]
+  },
+  {
+    "nom d'extension": ".RPM",
+    "description": "Paquet Red Hat Package Manager, format de paquet logiciel pour les distributions Linux basées sur Red Hat.",
+    "logiciels communs": [
+      "rpm (Linux)"
+    ]
+  },
+  {
+    "nom d'extension": ".TGZ",
+    "description": "Compressed Tar Archive (tar.gz), archive tar compressée avec gzip.",
+    "logiciels communs": [
+      "7-Zip",
+      "WinRAR",
+      "Linux/macOS Terminal"
+    ]
+  },
+  {
+    "nom d'extension": ".TAR.GZ",
+    "description": "Compressed Tar Archive (tar.gz), archive tar compressée avec gzip.",
+    "logiciels communs": [
+      "7-Zip",
+      "WinRAR",
+      "Linux/macOS Terminal"
+    ]
+  },
+  {
+    "nom d'extension": ".TAR.BZ2",
+    "description": "Compressed Tar Archive (tar.bz2), archive tar compressée avec bzip2.",
+    "logiciels communs": [
+      "7-Zip",
+      "WinRAR",
+      "Linux/macOS Terminal"
+    ]
+  },
+  {
+    "nom d'extension": ".TAR.XZ",
+    "description": "Compressed Tar Archive (tar.xz), archive tar compressée avec xz.",
+    "logiciels communs": [
+      "7-Zip",
+      "WinRAR",
+      "Linux/macOS Terminal"
+    ]
+  },
+  {
+    "nom d'extension": ".WIM",
+    "description": "Windows Imaging Format, format d'image disque de Microsoft pour le déploiement de Windows.",
+    "logiciels communs": [
+      "Windows ADK"
+    ]
+  },
+  {
+    "nom d'extension": ".VHD",
+    "description": "Virtual Hard Disk, image de disque virtuel utilisée par les machines virtuelles Microsoft.",
+    "logiciels communs": [
+      "Hyper-V",
+      "VirtualBox",
+      "VMware"
+    ]
+  },
+  {
+    "nom d'extension": ".VMDK",
+    "description": "Virtual Machine Disk, image de disque virtuel utilisée par VMware.",
+    "logiciels communs": [
+      "VMware Workstation",
+      "VirtualBox"
+    ]
+  },
+  {
+    "nom d'extension": ".QCOW2",
+    "description": "QEMU Copy On Write Format, image de disque virtuel pour QEMU.",
+    "logiciels communs": [
+      "QEMU"
+    ]
+  },
+  {
+    "nom d'extension": ".IMG",
+    "description": "Disk Image File, image brute d'un disque ou d'une partition.",
+    "logiciels communs": [
+      "CloneCD",
+      "Daemon Tools Lite",
+      "Disk Utility (macOS)",
+      "Rufus",
+      "Etcher",
+      "Win32 Disk Imager"
+    ]
+  },
+  {
+    "nom d'extension": ".CUE",
+    "description": "Cue Sheet File, décrit la disposition des pistes d'un CD/DVD, souvent avec un fichier .bin.",
+    "logiciels communs": [
+      "Daemon Tools Lite",
+      "Virtual CloneDrive"
+    ]
+  },
+  {
+    "nom d'extension": ".MDS",
+    "description": "Media Descriptor File, fichier compagnon de .mdf.",
+    "logiciels communs": [
+      "Alcohol 120%",
+      "Daemon Tools Lite"
+    ]
+  },
+  {
+    "nom d'extension": ".NRG",
+    "description": "Nero Disc Image File, image disque créée par Nero Burning ROM.",
+    "logiciels communs": [
+      "Nero Burning ROM",
+      "Alcohol 120%"
+    ]
+  },
+  {
+    "nom d'extension": ".ISZ",
+    "description": "Compressed ISO Disk Image, image disque ISO compressée par UltraISO.",
+    "logiciels communs": [
+      "UltraISO"
+    ]
+  },
+  {
+    "nom d'extension": ".DAA",
+    "description": "Direct Access Archive, format d'image disque propriétaire de PowerISO.",
+    "logiciels communs": [
+      "PowerISO"
+    ]
+  },
+  {
+    "nom d'extension": ".EXE",
+    "description": "Fichier exécutable Windows, lance un programme.",
+    "logiciels communs": [
+      "Windows OS"
+    ]
+  },
+  {
+    "nom d'extension": ".DLL",
+    "description": "Dynamic Link Library, bibliothèque de fonctions partagées par des programmes Windows.",
+    "logiciels communs": [
+      "Windows OS"
+    ]
+  },
+  {
+    "nom d'extension": ".SYS",
+    "description": "Fichier système Windows, crucial pour le fonctionnement du système d'exploitation.",
+    "logiciels communs": [
+      "Windows OS"
+    ]
+  },
+  {
+    "nom d'extension": ".APP",
+    "description": "Application macOS, un paquet contenant l'exécutable et les ressources de l'application.",
+    "logiciels communs": [
+      "macOS"
+    ]
+  },
+  {
+    "nom d'extension": ".BAT",
+    "description": "Script de commandes Windows, exécute une série de commandes DOS.",
+    "logiciels communs": [
+      "Windows Command Prompt"
+    ]
+  },
+  {
+    "nom d'extension": ".SH",
+    "description": "Shell Script (Bash), script de commandes pour les systèmes Unix/Linux/macOS.",
+    "logiciels communs": [
+      "Bash (Linux/macOS)"
+    ]
+  },
+  {
+    "nom d'extension": ".PY",
+    "description": "Script Python, code source écrit en Python.",
+    "logiciels communs": [
+      "Python",
+      "IDLE",
+      "PyCharm"
+    ]
+  },
+  {
+    "nom d'extension": ".JAVA",
+    "description": "Fichier source Java, code source pour les applications Java.",
+    "logiciels communs": [
+      "JDK (Java Development Kit)"
+    ]
+  },
+  {
+    "nom d'extension": ".CLASS",
+    "description": "Fichier de classe Java, bytecode compilé de Java.",
+    "logiciels communs": [
+      "JRE (Java Runtime Environment)"
+    ]
+  },
+  {
+    "nom d'extension": ".JAR",
+    "description": "Java Archive, paquet d'applications Java ou de bibliothèques.",
+    "logiciels communs": [
+      "JRE (Java Runtime Environment)"
+    ]
+  },
+  {
+    "nom d'extension": ".HTML",
+    "description": "HyperText Markup Language, page web.",
+    "logiciels communs": [
+      "Tout navigateur web",
+      "Visual Studio Code",
+      "Sublime Text"
+    ]
+  },
+  {
+    "nom d'extension": ".CSS",
+    "description": "Cascading Style Sheets, définit le style et la présentation des pages web.",
+    "logiciels communs": [
+      "Visual Studio Code",
+      "Sublime Text",
+      "Tout éditeur de texte"
+    ]
+  },
+  {
+    "nom d'extension": ".JS",
+    "description": "JavaScript File, script pour rendre les pages web interactives.",
+    "logiciels communs": [
+      "Visual Studio Code",
+      "Sublime Text",
+      "Navigateur web"
+    ]
+  },
+  {
+    "nom d'extension": ".PHP",
+    "description": "Hypertext Preprocessor, script côté serveur pour le développement web.",
+    "logiciels communs": [
+      "PHP Interpreter",
+      "Serveur web (Apache, Nginx)",
+      "PhpStorm"
+    ]
+  },
+  {
+    "nom d'extension": ".C",
+    "description": "Fichier source C, code source écrit en langage C.",
+    "logiciels communs": [
+      "GCC Compiler",
+      "Visual Studio"
+    ]
+  },
+  {
+    "nom d'extension": ".CPP",
+    "description": "Fichier source C++, code source écrit en langage C++.",
+    "logiciels communs": [
+      "g++ Compiler",
+      "Visual Studio"
+    ]
+  },
+  {
+    "nom d'extension": ".H",
+    "description": "Fichier d'en-tête C/C++, contient des déclarations pour le code source.",
+    "logiciels communs": [
+      "Tout éditeur de texte"
+    ]
+  },
+  {
+    "nom d'extension": ".CS",
+    "description": "Fichier source C#, code source écrit en langage C# (.NET).",
+    "logiciels communs": [
+      "Visual Studio",
+      ".NET SDK"
+    ]
+  },
+  {
+    "nom d'extension": ".VB",
+    "description": "Fichier source Visual Basic, code source écrit en Visual Basic.",
+    "logiciels communs": [
+      "Visual Studio"
+    ]
+  },
+  {
+    "nom d'extension": ".GO",
+    "description": "Fichier source Go, code source écrit en langage Go.",
+    "logiciels communs": [
+      "Go Compiler",
+      "Visual Studio Code"
+    ]
+  }
+]
